@@ -1,0 +1,1 @@
+ALTER TABLE `wp_users` ADD `ERPLY_Customer_id` BIGINT( 20 ) NOT NULL ; ALTER TABLE `wp_woocommerce_order_items` ADD `ERPLY_invoice_id` BIGINT( 20 ) NOT NULL
